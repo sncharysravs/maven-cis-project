@@ -34,7 +34,7 @@
             <plugin>
                 <groupId>com.theoryinpractise</groupId>
                 <artifactId>clojure-maven-plugin</artifactId>
-                <version>3.0</version>
+                <version>3.11.0</version>
                 <executions>
                     <execution>
                         <id>default</id>
