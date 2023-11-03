@@ -5,7 +5,7 @@
 
     <groupId>cis</groupId>
     <artifactId>cis-project</artifactId>
-    <version>1.0</version>
+    <version>7.0</version>
     <packaging>jar</packaging>
 
     <name>cis-project</name>
@@ -19,7 +19,7 @@
         <dependency>
             <groupId>org.clojure</groupId>
             <artifactId>clojure</artifactId>
-            <version>1.4.0</version>
+            <version>3.8.0</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
